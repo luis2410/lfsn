@@ -8,5 +8,6 @@ public class TmgdlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TmgdlApplication.class, args);
+		System.out.println("asdfasd");
 	}
 }
