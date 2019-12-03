@@ -10,7 +10,8 @@ public class TmgdlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TmgdlApplication.class, args);
-		
-		//TEST2
+
+		System.out.println("asdfasd");
+
 	}
 }
