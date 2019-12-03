@@ -1,6 +1,6 @@
 package com.soam.TMGDL;
 /**
-version 1.1
+version 1.12
 */
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
